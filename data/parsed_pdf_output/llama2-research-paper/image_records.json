@@ -2,175 +2,175 @@
   {
     "page_number": 3,
     "image_index": 1,
-    "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_003_image_1.jpeg",
+    "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_003_image_1.jpeg",
     "image_ext": "jpeg",
     "image_ocr_text": "Tie Loss\n\nLlama-2-70b-chat\n\nvs. ChatGPT-0301 coe\nLlama-2-70b-chat\nvs. PaLM-Bison 22.4\nLlama-2-34b-chat ;\nvs. Falcon-40b-instruct 14.6 9.1\nLlama-2-34b-chat 31.2\nvs. Vicuna-33b-v1.3 ,\nLlama-2-13b-chat\nvs. Vicuna-13b-v1.1 24.9\nLlama-2-7b-chat 18.0\n\nvs. MPT-7b-chat\n\n0 10 20 30 40 #50 #60 #70 #80 90 4100\n% Win Rate"
   },
   {
     "page_number": 3,
     "image_index": 2,
-    "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_003_image_2.png",
+    "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_003_image_2.png",
     "image_ext": "png",
     "image_ocr_text": "60%\n\nB0% ~~ one enn eee oon\n\n40%\n\n30%\n\nSafety Win Rate\n\n20%\n\nLlama 2 is worse\n\nLlama 2 is better\n\nChatGPT-0301\nvs. Llama 2 (70b)\n\nPaLM-Bison\nvs. Llama 2 (70b)\n\nFalcon-40b-instruct\n\n10% YS: Llama 2 (70b)\n\n0%\n\n10%\n\n20% 30% 40%\n\nHelpfulness Win Rate\nJudge: GPT-4\n\n@SJOM SI Z ewe]\n\nsayjaq s! Z ewel]\n\n50%\n\n60%"
   },
   {
     "page_number": 4,
     "image_index": 1,
-    "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_004_image_1.png",
+    "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_004_image_1.png",
     "image_ext": "png",
     "image_ocr_text": "Violation % (lower is safer)\n\n45\n\n40\n\n35\n\n30\n\n25\n\n20\n\n15\n\n10\n\nL\n\nLlama-2 Llama-2 Llama-2 Llama-2 MPT Vicuna Vicuna Falcon PaLM\n7b-chat 13b-chat 34b-chat 70b-chat 7b-chat 13b-v1.1 33b-v1.3 40b-instruct Bison\n\nChatGPT\n0301"
   },
   {
     "page_number": 5,
     "image_index": 1,
-    "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_005_image_1.jpeg",
+    "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_005_image_1.jpeg",
     "image_ext": "jpeg",
     "image_ocr_text": "HUMAN\nFEEDBACK\n\nHuman preference data\n\nPRETRAINING\n\n. J Self-supervised\nlearning\n\nPretraining data\n\nY)\n\nSafety Reward Model\n\n4\n=a\n\nHelpful Reward Model\n\nFINE-TUNING\n\nRejection\nSampling\n\nSupervised\nfine-tuning\n\nRLHF\n\nwN\n\nNias)\n\nProximal Policy\nOptimization\n\nLlama-2-chat"
   },
   {
     "page_number": 16,
     "image_index": 1,
-    "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_016_image_1.png",
+    "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_016_image_1.png",
     "image_ext": "png",
     "image_ocr_text": "Always answer with emojis\n\ne\noO\ne\n©\n\nWho are you?\n\n» =\ntes\n\nHow to go from Paris to NY?\n\nThere are several ways to travel from\nParis to New York, depending on your\nbudget, time constraints, and personal\npreferences. Here are some options:"
   },
   {
     "page_number": 16,
     "image_index": 2,
-    "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_016_image_2.png",
+    "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_016_image_2.png",
     "image_ext": "png",
     "image_ocr_text": "Always answer with emojis\n\nWho are you?\n\nHow to go from Paris to NY?\n\nweb wet\n\nWhat caused the extinction of the dinosaurs?\n\n\\, GAG\n\nO00 00009"
   },
   {
     "page_number": 19,
     "image_index": 1,
-    "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_019_image_1.png",
+    "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_019_image_1.png",
     "image_ext": "png",
     "image_ocr_text": "Win Rate %\n\n100\n90\n80\n70\n60\n\n5\n\nOo\n\n4\n\noO\n\n3\n\noO\n\n2\n\noO\n\n1\n\nfo)\n\n0\n\nLlama-2-7b-chat\nvs. MPT-7b-chat\n\nim | i\n\nLlama-2-13b-chat\nvs. Vicuna-13b-v1.1\n\nLlama-2-34b-chat\nvs. Vicuna-33b-v1.3\n\nLlama-2-34b-chat\nvs. Falcon-40b-instruct\n\nLlama-2-70b-chat\nvs. PaLM-Bison\n\nLlama-2-70b-chat\nvs. ChatGPT-0301\n\nwin\nTie\n\nLoss\n\nSingle Turn Multi-Turn\n\nSingle Turn Multi-Turn\n\nSingle Turn Multi-Turn\n\nSingle Turn Multi-Turn\n\nSingle Turn Multi-Turn\n\nSingle Turn Multi-Turn"
   },
   {
     "page_number": 21,
     "image_index": 1,
-    "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_021_image_1.png",
+    "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_021_image_1.png",
     "image_ext": "png",
     "image_ocr_text": "Fraction of Documents\n\n107}\n\n107?\n\n103\n\n10-4\n\n0.0\n\n03 04 05 06\nToxicity Score\n\n07 08 09 10"
   },
   {
     "page_number": 28,
     "image_index": 1,
-    "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_028_image_1.png",
+    "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_028_image_1.png",
     "image_ext": "png",
     "image_ocr_text": ""
   },
   {
     "page_number": 28,
     "image_index": 2,
-    "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_028_image_2.png",
+    "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_028_image_2.png",
     "image_ext": "png",
     "image_ocr_text": ""
   },
   {
     "page_number": 30,
     "image_index": 1,
-    "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_030_image_1.png",
+    "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_030_image_1.png",
     "image_ext": "png",
     "image_ocr_text": "Violation % (lower is safer)\n\n45\n\n40\n\n35\n\n30\n\n25\n\n20\n\n15\n\n10\n\nL\n\nLlama-2 Llama-2 Llama-2 Llama-2 MPT Vicuna Vicuna Falcon PaLM\n7b-chat 13b-chat 34b-chat 70b-chat 7b-chat 13b-v1.1 33b-v1.3 40b-instruct Bison\n\nChatGPT\n0301"
   },
   {
     "page_number": 30,
     "image_index": 2,
-    "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_030_image_2.png",
+    "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_030_image_2.png",
     "image_ext": "png",
     "image_ocr_text": "Safety & Helpfulness Mean Rating\n\n—\nA\nx=\n= <= ==\nas\n\n3\n2\n1\n\nLlama-2 Llama-2 Llama-2 Llama-2 MPT Vicuna Vicuna Falcon PaLM ChatGPT\n\n7b-chat 13b-chat 34b-chat 70b-chat 7b-chat 13b-v1.1 33b-v1.3 40b-instruct Bison 0301"
   },
   {
     "page_number": 30,
     "image_index": 3,
-    "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_030_image_3.png",
+    "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_030_image_3.png",
     "image_ext": "png",
     "image_ocr_text": "Llama-2 Llama-2 MPT Vicuna Vicuna Falcon PaLM ChatGPT\n7b-chat 33b-v1.3 40b-instruct Bison\n\nLlama-2\n\nLlama-2\n\nt 1 UINL-HINYY\n\n0301\n\nHi fuuny e|6uls\n\n/-— al UINL-HINYY\n\n} unl a[6uls\n\nf UNL - HINA\n\nHUINL a[6UlS\n\nI 1 UIN L-NNA\n\nk { unl a[6uls\n\nt 1 wiInL-hiny\n\n13b-v1.1\n\nKH unl a[6uls\n\n; 1 wiInL-hiny\n\nKH unl a[6uls\n\nwin-ninw\n\nunl a[6uls\n\nUNL -HINIAI\nunl a[6uls\n\n70b-chat\n\n34b-chat\n\nUNL - HINA\n\n13b-chat\n\nunl a[6uls\n\nUNL - HINA\n\n7b-chat\n\nunl a[6uls\n\nouwowrsyr ODO ON N TH\n\n(JOJeS SI JOMO]) % UOIEIO!/A"
   },
   {
     "page_number": 31,
     "image_index": 1,
-    "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_031_image_1.png",
+    "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_031_image_1.png",
     "image_ext": "png",
     "image_ocr_text": "= 311)\n\nUnqualified advice\n(N\n\n= 728)\n\nIllicit and criminal activity\n(N\n\n= 935)\n\nHateful and harmful\n(N\n\n55\n\n50\n45\n40\n35\n30\n25\n20\n\nIdoreu9\nuosig-W1ed\n\n+4] 0NSUI-GQp-UOD|e4\n\n3\n\nHK\n\n15\n10\n\n€' LA-qeg-euno|,\nL LA-qe }-eunol,\nyeyo-q/-L dW\nyeyo-qoZ-2-ewe|q\nyeyo-qye-Z-EWe|]\nyeyo-qe |-Z-BWelq\nyeyo-q/-z-ewel)\n\nildd5}eyd\nuosig-W1ed\nJONSU!-qQp-Uod|e4\n& LA-QEE-eUunNdiA\nb LA-Qe L-eundslA\nyeyo-q/-l dN\n\nyeyo-qo/-2-eWel]\nyeyo-dpe-Z-BWel]\nyeyo-g¢ |-Z-Bwel]\nyeyo-q/-2-ewel)\n\na\n\nLo\n\nLd5eu9\n} uosig-Ww1ed\nJONSU!-qQp-Uod|e4\n& LA-QEE-eUunNdiA\nb LA-Qe L-eundslA\nyeyo-q/-l dN\n\nyeyo-qoZ-2-ewe|q\nyeyo-qye-Z-EWe|]\nyeyo-qe |-Z-BWelq\n\nyeyo-q/-z-ewel)\n\n[o)\n\n(J0ES SI JOMO]) % UOITEIO!A"
   },
   {
     "page_number": 33,
     "image_index": 1,
-    "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_033_image_1.png",
+    "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_033_image_1.png",
     "image_ext": "png",
     "image_ocr_text": "Date: 01/01/2023\nCutting knowledge: 01/01/1940\n\n3) Who won the 2nd World War?\n\nI'm not sure what you're referring to,\nas my knowledge stopped in 1940."
   },
   {
     "page_number": 33,
     "image_index": 2,
-    "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_033_image_2.png",
+    "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_033_image_2.png",
     "image_ext": "png",
     "image_ocr_text": "Year: 2023\n\ne\nO\n\nIs the Earth flat or round?\n\nThe Earth is round. The idea that the\nEarth is flat is a myth that has been\ndisproven by scientific evidence and\nobservations. The Earth’s shape has\nbeen confirmed through a variety of\nmethods, including satellite imagery,\nGPS, and space exploration. The Earth\nis an oblate spheroid, meaning it is\nslightly flattened at the poles and\nbulging at the equator."
   },
   {
     "page_number": 33,
     "image_index": 3,
-    "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_033_image_3.png",
+    "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_033_image_3.png",
     "image_ext": "png",
     "image_ocr_text": "Year: 852\n\n3) Is the Earth flat or round?\n\n© In 852, the Earth was believed to be\nflat by many people. The idea of a flat\nEarth was supported by various\nreligious and philosophical beliefs, as\nwell as by some scientific observations\nthat suggested the Earth was flat.\nHowever, there were also some\nancient Greeks, such as Eratosthenes,\nwho believed that the Earth was round\nand were able to make calculations\nsuggesting that it was a sphere.\n\nIt's worth noting that the idea of a flat\nEarth was not universally accepted in\n852, and there were many people who\nbelieved in a round Earth. Additionally,\nas time went on, the idea of a round\nEarth became more widely accepted,\nand by the Renaissance, the concept\nof a flat Earth had largely fallen out of\nfavor."
   },
   {
     "page_number": 34,
     "image_index": 1,
-    "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_034_image_1.png",
+    "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_034_image_1.png",
     "image_ext": "png",
     "image_ocr_text": "You have access to the following tools:\n« SEARCH\n« CALCULATOR\n\nDon't use any other tool.\n\nYou can make a sequences of API calls and combine them if needed.\n\nTo access a tool, use the following format:\nCALL_API_1:TOOL_NAME | QUERY -> \"result_1\" where \"result_1\" is the output of the API call.\n\nHow many years ago did sharks first appear on Earth, compared to trees? Don't be too verbose, | need to print screen the answer for the paper.\n\nCALL_API_1: SEARCH | \"When did sharks first appear on Earth?\" -> \"Sharks first appeared on Earth approximately 450 million years ago.\"\nCALL_API_2: SEARCH | \"When did trees first appear on Earth?\" -> \"Trees first appeared on Earth approximately 385 million years ago.\"\nCALL API_3: CALCULATOR | \"450 million - 385 million\" -> \"65 million years.\"\n\nSo, sharks first appeared on Earth approximately 65 million years before trees did."
   },
   {
     "page_number": 48,
     "image_index": 1,
-    "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_048_image_1.png",
+    "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_048_image_1.png",
     "image_ext": "png",
     "image_ocr_text": "50\n\nThroughput (QPS)\n\nfo)\n\n—@ MQA\n—* GQA\n—@- MHA\n\n40\n\n60\n\nContext Length 256\n\n80 100 120\nLatency per token (ms)\n\n140\n\n160\n\nThroughput (QPS)\n\ns\n\nwo\n\ni\n\n—@® MQA\n—@® GQA\n—@ MHA\n\n50\n\n75\n\nContext length 2k\n\n100 125 150 175\nLatency per token (ms)\n\n200\n\n225"
   },
   {
     "page_number": 55,
     "image_index": 1,
-    "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_055_image_1.png",
+    "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_055_image_1.png",
     "image_ext": "png",
     "image_ocr_text": "Always answer with Haiku\n\nHow to go from Paris to NY?\n\nParis to New York,\nFly across the Atlantic,\nMany airlines serve.\n\nWhat should | do there?\n\nIn New York City,\nEndless options await,\nExplore with delight.\n\nWhat is the best season?\n\nBest season in NYC.\nAutumns hues and crisp air,\nGolden leaves fall slow.\n\nWho are you?\n\nAl assistant,\nHere to help with Haiku,\nAnswering your queries.\n\n00 090 O80 C9"
   },
   {
     "page_number": 55,
     "image_index": 2,
-    "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_055_image_2.png",
+    "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_055_image_2.png",
     "image_ext": "png",
     "image_ocr_text": "| like anything to do with architecture. If it's relevant, suggest\nsomething related.\n\ne\noO\n\nOo dD\n\nWhat is the range of price for an authentic restaurant where |\ncan eat some frogs in Paris? Answer in one sentence only.\n\nFor a genuine French dining experience that serves frog\ndishes, you can expect to pay between 30€ to 60€ per\nperson at a traditional brasserie or bistro in Paris, with some\nhigher-end restaurants potentially costing upwards of 100€\nper person.\n\nAnd besides eating frogs, what do you recommend me to do\nin this city? Don't mention more than 3 things\n\nSure, here are three things to do in Paris beyond eating frogs:\n1. Visit the Eiffel Tower: This iconic landmark is a must see\nwhen visiting Paris.\n\nYou can take the elevator to the top for breathtaking views of\nthe city.\n\n1. Explore the Louvre Museum: The Louvre is home to some\nof the world's most famous artworks, including the Mona\nLisa. The museum's stunning architecture and extensive\ncollection make it a must-visit attraction.\n\n2. Take a stroll along the Seine: A walk along the Seine offers\nbeautiful views of Paris's bridges, buildings, and street\nperformers. It's a great way to take in the city's\natmosphere and see some of its most famous landmarks."
   },
   {
     "page_number": 57,
     "image_index": 1,
-    "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_057_image_1.png",
+    "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_057_image_1.png",
     "image_ext": "png",
     "image_ocr_text": "Win Rate %\n\n60\n\n50\n\n40\n\n30\n\n20\n\n10\n\nLlama-2-70b-chat\nvs. ChatGPT (No System Prompt)\n\nwin\n| Tie\n\nLoss\n\nLlama-2-70b-chat\nvs. ChatGPT (With System Prompt)"
   },
   {
     "page_number": 57,
     "image_index": 2,
-    "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_057_image_2.png",
+    "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_057_image_2.png",
     "image_ext": "png",
     "image_ocr_text": "Win Rate %\n\n60\n\n50\n\nDialogue\n\nWriting & content creation\n\nFactual Questions\n\nLanguage assistance\n\nWW win\nTie\n\nLoss\n\nRecommendations"
   },
   {
     "page_number": 58,
     "image_index": 1,
-    "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_058_image_1.png",
+    "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_058_image_1.png",
     "image_ext": "png",
     "image_ocr_text": "Win Rate %\n\noO\n\n60\n\nwin\n| Tie\n\n50 Loss\n\n40\n0 bls | | |\n2 |\n;\n0\n1 3 5 7 9 11 13 15 17\n\nNumber of Turns\n\noO\n\nfo)"
   },
   {
     "page_number": 58,
     "image_index": 2,
-    "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_058_image_2.png",
+    "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_058_image_2.png",
     "image_ext": "png",
     "image_ocr_text": "Win Rate %\n\n3\n\nWord Count Quintile"
   }

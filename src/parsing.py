@@ -1,4 +1,6 @@
 import json
+import os
+import shutil
 import sys
 from pathlib import Path
 from typing import Any, Dict, List, Optional
@@ -92,18 +94,43 @@ class ComplexPDFParser:
         Configure Tesseract executable.
 
         If a path is provided, it is validated and assigned to pytesseract.
-        If no path is provided, pytesseract will use Tesseract available
-        in the system PATH.
+        Otherwise, discover Tesseract from PATH or its standard Windows
+        installation locations.
         """
         if tesseract_path:
-            path = Path(tesseract_path)
+            candidates = [Path(tesseract_path)]
+        else:
+            candidates = []
+            path_from_environment = os.getenv("TESSERACT_PATH")
+            if path_from_environment:
+                candidates.append(Path(path_from_environment))
 
-            if not path.exists():
-                raise FileNotFoundError(
-                    f"Tesseract executable not found at: {path}"
+            path_from_path = shutil.which("tesseract")
+            if path_from_path:
+                candidates.append(Path(path_from_path))
+
+            if os.name == "nt":
+                candidates.extend(
+                    [
+                        Path(os.environ.get("ProgramFiles", "C:\\Program Files"))
+                        / "Tesseract-OCR"
+                        / "tesseract.exe",
+                        Path(os.environ.get("LOCALAPPDATA", ""))
+                        / "Tesseract-OCR"
+                        / "tesseract.exe",
+                    ]
                 )
 
-            pytesseract.pytesseract.tesseract_cmd = str(path)
+        path = next((candidate for candidate in candidates if candidate.is_file()), None)
+
+        if path is None:
+            if tesseract_path:
+                raise FileNotFoundError(
+                    f"Tesseract executable not found at: {tesseract_path}"
+                )
+            return
+
+        pytesseract.pytesseract.tesseract_cmd = str(path)
 
     # ============================================================
     # OCR

@@ -2,91 +2,91 @@
   {
     "page_number": 2,
     "image_index": 1,
-    "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_002_image_1.png",
+    "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_002_image_1.png",
     "image_ext": "png",
     "image_ocr_text": "Contract Processing Ownership Map\n\nClient Admin Audit Team\n\nVector DB Document Store"
   },
   {
     "page_number": 7,
     "image_index": 1,
-    "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_007_image_1.png",
+    "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_007_image_1.png",
     "image_ext": "png",
     "image_ocr_text": "RAG Ingestion and Retrieval Flow\n\nRaw Files Parser Chunks Vector DB\nPDF / DOCX / HTML Text + Tables Sections + Metada| Embeddings\n\nUser Query Retriever LLM\n\nquestion top-k chunks grounded answer\n\nParsing challenge: each stage can improve or damage answer quality."
   },
   {
     "page_number": 9,
     "image_index": 1,
-    "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_009_image_1.png",
+    "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_009_image_1.png",
     "image_ext": "png",
     "image_ocr_text": "Client Name:\n\nContract ID:\n\nEffective Date:\n\nRenewal Type:\n\nData Region:\n\nReviewer:\n\nCONTRACT INTAKE FORM\n\nBlueLeaf Retail Pvt Ltd\n\nBLR-MSA-2026-019\n\nO1 Apr 2026\n\nAuto renewal with 60 day notice\n\nindia - South\n\nK. Mehta\n\nvid Approved for ingestion after Pll masking"
   },
   {
     "page_number": 12,
     "image_index": 1,
-    "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_012_image_1.png",
+    "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_012_image_1.png",
     "image_ext": "png",
     "image_ocr_text": "Viewer Retention Heatmap by Time Slot\n\nMorning\n\nNoon\n\nEvening\n\nPrime\n\nLate\n\nMon Tue Wed Thu Fri"
   },
   {
     "page_number": 16,
     "image_index": 1,
-    "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_016_image_1.png",
+    "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_016_image_1.png",
     "image_ext": "png",
     "image_ocr_text": "ae ennn mr en macnn NSN ON NONE ONS NEE DINE POLE II\n\nCa Crop [Obligation Responsible Team [rae Evidence Required [isk\nData Protection | Dette loa ater comact | Owner —corprce | Termitonratice Deion cole + ad og | Hh\nforarsionitesracsrs | eaomp taps reared emer\n‘Sy eaure\nNaty chs aout ay conned Owe Seay Tio csi as | nee epee, | Cea\naa tcdennitia Shout | pocap evo Coeresacsct teeta\niting ply aeu later foe | Oar anes Reneval rer aproved | Aprovedrenevalshea+ | Medan\n“rer ot ae veewal | Sadap oa toe at\neatate\nDora blinacive campuses (Ow Revue Op ERP campus sus expo High\nSriyncpocbnpetal”—_|lmcap renee\nSupport| Pro Presponse within 30 owner saot2—*| Tekst pity <1 Tedttvestamps agent igh\nMinas atngsctulopeettg Seep Se TSowen\nroe\nEscalate uvesoved P2itaiS [Owner Sapp ——( Tet age 4 bss Escalon og Wed\n\nater 4 business hours\n\ncup\n\nSuppant.2\n\nhours"
   },
   {
     "page_number": 17,
     "image_index": 1,
-    "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_017_image_1.png",
+    "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_017_image_1.png",
     "image_ext": "png",
     "image_ocr_text": "Plan ‘Student Volume Annual Platform Charges Usage Add-ons Billing Rule\nIndia Region Intemational | SMS Whatsapp\n\nStanee 0-2.000suderss ase NR ASL sD 7.200 INRO.18imessage INRO.42Imessage | Quarterly advance\nSuppor WR GOK\n\nrome 2001-10.000sudents Gese RTI | USO 18,000 INRO.1Simessage INR O:message | SO% advance +\nSupport INR AL monty usage\n\nEmerpise 10,001 students ase Cus =| Custom Negotiated Negatisted ‘Signed order frm\nSupper neue required\n\nException Government schools Discount may apply ater approval No escount on pass-through cost Requires CFO\n\napprove!"
   },
   {
     "page_number": 18,
     "image_index": 1,
-    "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_018_image_1.png",
+    "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_018_image_1.png",
     "image_ext": "png",
     "image_ocr_text": "Line tem\n\nem Group ay ate ‘Texspit Foul\n[ERP Porn | Annual Schoo Enterprise Subscipion- [1 INRT19000. (9% oe NR 12.96.000\nZeampuses\nPatot communication adi-on-estnated 200000 INROSBinsg cS oe wr 29,680\nmessage pack msgs\nmglemeraton [Datamation + wating + gove Suppo 1 vm 240,000, 3 oe wr 283.200\nSurmary Subltal and tes INR 14.1500 _|INR3.274a0 | WR1.27.440_|INR 16.70.80,"
   },
   {
     "page_number": 19,
     "image_index": 1,
-    "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_019_image_1.png",
+    "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_019_image_1.png",
     "image_ext": "png",
     "image_ocr_text": "Visual Appendix 1: Multimodal Document Flow\n\nParsing challenge: preserve text, tables, images, OCR output, and metadata before chunking.\n\nPDF / DOCX\nContracts\n\nScanned ext + Table: RAG-ready\nInvoices + Metadata Chunks\n\nExcel / CSV\nMetadata\n\nExpected extraction: content blocks with source file, page, section, modality, and confidence score."
   },
   {
     "page_number": 20,
     "image_index": 1,
-    "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_020_image_1.png",
+    "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_020_image_1.png",
     "image_ext": "png",
     "image_ocr_text": "Visual Appendix 2: Contract Risk Dashboard Snapshot\n\nParsing challenge: extract chart labels, legends, values, and nearby explanatory text.\n\nOpen Contract Risks by Month\n\n45\nI High risk: 12 clauses\n38\n(MM) Medium risk: 21 clauses\n31\n[Low risk: 45 clauses\n26\n24\n18\nBlueLeaf 22 6 Procurement\nCityRide 16 2 Ops\nJan Feb Mar Apr May Jun\n\nExpected extraction: chart title, series values, legend labels, table values, and risk summary."
   },
   {
     "page_number": 21,
     "image_index": 1,
-    "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_021_image_1.png",
+    "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_021_image_1.png",
     "image_ext": "png",
     "image_ocr_text": "Visual Appendix 3: Data Lineage and Access Boundary\n\nParsing challenge: diagram text must be OCRed and mapped to relationships.\n\n[ctient Upload|—Seture Object St gestion Workpr—Valctor Namespa\n\nAuth Service Query Router LLM Gateway\n\naudit log\nRed boundary = tenant-safe processing zone. Ret! authenticated client_id\n\nbefore LLM context creation."
   },
   {
     "page_number": 22,
     "image_index": 1,
-    "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_022_image_1.png",
+    "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_022_image_1.png",
     "image_ext": "png",
     "image_ocr_text": "SCANNED TAX INVOICE\n\nBlueLeaf Cloud Billing Services No: INV-BLR-2026-0718\n\nGSTIN: 29AABCT2026P1Z8 Date: 18 Jul 2026\n\nBill To:\n\nSchool360 Learning Services Pvt Ltd\nTower B, Outer Ring Road\nBengaluru, Karnataka - 560103\n\nLine Items\n\nDescription Rate Amount\n\nAnnual platform subscription INR 95,000 95,000\n\nImplementation and onboarding INR 22,500 22,500\n\nSupport add-on / message pack INR 0.40 1,400\n\nSubtotal: INR 118,900\nCGST 9%: INR 10,701\nSGST 9%: INR 10,701\n\nTotal Amount:NR 140,302\n\nPayment Terms:\n\nDue within 15 days. Late fee may apply after due date.\nFooter note: Amount includes taxes unless separately mentioned.\nOCR challenge: faint stamp, rotated Page, table lines, and handwritten approval.\n\nAPPROVED\n\nReceived by: K. Mehta"
   },
   {
     "page_number": 23,
     "image_index": 1,
-    "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_023_image_1.png",
+    "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_023_image_1.png",
     "image_ext": "png",
     "image_ocr_text": "SCANNED UTILITY BILL\n\nCityRide Depot Energy Board No: BILL-CRM-2026-0881\n\nGSTIN: 29AABCT2026P1Z8 Date: 18 Jul 2026\n\nBill To:\n\nSchool360 Learning Services Pvt Ltd\nTower B, Outer Ring Road\nBengaluru, Karnataka - 560103\n\nLine Items\n\nDescription Rate Amount\n\nElectricity fixed charges INR 1,250 1,250\n\nEnergy usage - peak units INR 8.20 6,904\n\nEnergy usage - off-peak units INR 5.70 1,784\n\nMeter service adjustment INR 340 340\n\nSubtotal: INR 10,278\nCGST 9%: INR 925\nSGST 9%: INR 925\n\nTotal Amount:iNR 12,128\n\nPayment Terms:\n\nDue within 15 days. Late fee may apply after due date.\nFooter note: Amount includes taxes unless separately mentioned.\nOCR challenge: faint stamp, rotated page, table lines, and handwritten approval.\n\nAPPROVED\n\nReceived by: K. Mehta"
   },
   {
     "page_number": 24,
     "image_index": 1,
-    "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_024_image_1.jpeg",
+    "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_024_image_1.jpeg",
     "image_ext": "jpeg",
     "image_ocr_text": ""
   }

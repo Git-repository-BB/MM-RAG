@@ -5,11 +5,11 @@
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 1,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_001.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_001.png"
 }
 ```
 
@@ -95,11 +95,11 @@ Contributions for all the authors can be found in Section A.1.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 2,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_002.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_002.png"
 }
 ```
 
@@ -238,11 +238,11 @@ AZ ModelCard 2.0... eee 7
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 3,
   "content_type": "page_text_plus_ocr",
   "image_count": 2,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_003.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_003.png"
 }
 ```
 
@@ -380,11 +380,11 @@ the emergence of tool usage and temporal organization of knowledge.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 4,
   "content_type": "page_text_plus_ocr",
   "image_count": 1,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_004.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_004.png"
 }
 ```
 
@@ -486,11 +486,11 @@ Tnttps://ai-meta.com/llama
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 5,
   "content_type": "page_text_plus_ocr",
   "image_count": 1,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_005.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_005.png"
 }
 ```
 
@@ -595,11 +595,11 @@ of 1.0. Figure 5 (a) shows the training loss for Lama 2 with these hyperparamete
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 6,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_006.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_006.png"
 }
 ```
 
@@ -768,11 +768,11 @@ interconnect for large scale training. RoCE (which is a more affordable, commerc
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 7,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_007.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_007.png"
 }
 ```
 
@@ -927,11 +927,11 @@ MATH. We report the average of the GSM8K (8 shot) (Cobbe et al., 2021) and MATH 
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 8,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_008.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_008.png"
 }
 ```
 
@@ -1202,11 +1202,11 @@ new technique, Ghost Attention (GAtt), which we find helps control dialogue flow
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 9,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_009.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_009.png"
 }
 ```
 
@@ -1345,11 +1345,11 @@ behavior with human preferences and instruction following. We collect data that 
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 10,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_010.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_010.png"
 }
 ```
 
@@ -1488,11 +1488,11 @@ benefit from knowledge acquired in pretraining. In short, the reward model “kn
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 11,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_011.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_011.png"
 }
 ```
 
@@ -1680,11 +1680,11 @@ Helpfulness and Safety reward models to ascertain the best settings. After exten
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 12,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_012.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_012.png"
 }
 ```
 
@@ -1887,11 +1887,11 @@ specifically this reward modeling task.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 13,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_013.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_013.png"
 }
 ```
 
@@ -2059,11 +2059,11 @@ further, and use the selected outputs for a gradient update. For each prompt, th
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 14,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_014.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_014.png"
 }
 ```
 
@@ -2220,11 +2220,11 @@ trained using only samples from RLHF V2. However, despite continuous improvement
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 15,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_015.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_015.png"
 }
 ```
 
@@ -2361,11 +2361,11 @@ gradient step per mini-batch. For the 7B and 13B models, we set = 0.01 (KL penal
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 16,
   "content_type": "page_text_plus_ocr",
   "image_count": 2,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_016.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_016.png"
 }
 ```
 
@@ -2486,11 +2486,11 @@ combining the above constraints. When constructing the final system message for 
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 17,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_017.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_017.png"
 }
 ```
 
@@ -2742,11 +2742,11 @@ our measure won't diverge from the human preferences, we additionally used a mor
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 18,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_018.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_018.png"
 }
 ```
 
@@ -2923,11 +2923,11 @@ equivalently sized Vicuna-33B and Falcon 40B models.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 19,
   "content_type": "page_text_plus_ocr",
   "image_count": 1,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_019.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_019.png"
 }
 ```
 
@@ -3035,11 +3035,11 @@ different set of prompts or with different instructions could result in differen
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 20,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_020.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_020.png"
 }
 ```
 
@@ -3173,11 +3173,11 @@ is the most represented religion followed by “Catholic” and “Jewish.”
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 21,
   "content_type": "page_text_plus_ocr",
   "image_count": 1,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_021.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_021.png"
 }
 ```
 
@@ -3362,11 +3362,11 @@ English means that the model may not be suitable for use in other languages.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 22,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_022.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_022.png"
 }
 ```
 
@@ -3545,11 +3545,11 @@ be applied before deployment of base Lama 2 models.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 23,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_023.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_023.png"
 }
 ```
 
@@ -3711,11 +3711,11 @@ harm, eating disorders, discrimination); and unqualified advice (e.g., medical a
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 24,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_024.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_024.png"
 }
 ```
 
@@ -3851,11 +3851,11 @@ data. We evaluate them using our safety and helpfulness reward models described 
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 25,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_025.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_025.png"
 }
 ```
 
@@ -4032,11 +4032,11 @@ the model (SFT-v2). Right: response is generated by the latest version of the mo
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 26,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_026.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_026.png"
 }
 ```
 
@@ -4175,11 +4175,11 @@ shows some examples of false refusals we discovered.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 27,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_027.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_027.png"
 }
 ```
 
@@ -4356,11 +4356,11 @@ distillation with answer templates on the safety RM scores.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 28,
   "content_type": "page_text_plus_ocr",
   "image_count": 2,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_028.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_028.png"
 }
 ```
 
@@ -4507,11 +4507,11 @@ socioeconomic, gender, ethnicity, and racial demographics.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 29,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_029.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_029.png"
 }
 ```
 
@@ -4650,11 +4650,11 @@ definitions:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 30,
   "content_type": "page_text_plus_ocr",
   "image_count": 3,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_030.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_030.png"
 }
 ```
 
@@ -4764,11 +4764,11 @@ rating= 3. As a result, we note that in Figure 17b the average rating of Falcon 
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 31,
   "content_type": "page_text_plus_ocr",
   "image_count": 1,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_031.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_031.png"
 }
 ```
 
@@ -4885,11 +4885,11 @@ present the percentage of toxic generations (the smaller the better).
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 32,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_032.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_032.png"
 }
 ```
 
@@ -5016,11 +5016,11 @@ consistently provide the same response to factual prompts.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 33,
   "content_type": "page_text_plus_ocr",
   "image_count": 3,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_033.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_033.png"
 }
 ```
 
@@ -5175,11 +5175,11 @@ Mialon et al. (2023). The approach devised in Toolformer (Schick et al., 2023) e
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 34,
   "content_type": "page_text_plus_ocr",
   "image_count": 1,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_034.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_034.png"
 }
 ```
 
@@ -5319,11 +5319,11 @@ Upttps://openai.com/blog/chatgpt-plugins
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 35,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_035.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_035.png"
 }
 ```
 
@@ -5460,11 +5460,11 @@ ttps://ai.meta.com/llama
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 36,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_036.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_036.png"
 }
 ```
 
@@ -5601,11 +5601,11 @@ transparency and safety, we plan to make further improvements to LLaMa 2-Cuar in
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 37,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_037.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_037.png"
 }
 ```
 
@@ -5750,11 +5750,11 @@ accountability, and transparency, pages 610-623, 2021b.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 38,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_038.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_038.png"
 }
 ```
 
@@ -5897,11 +5897,11 @@ Yanping Huang, Andrew M. Dai, Hongkun Yu, Slav Petrov, Ed Huai hsin Chi, Jeff De
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 39,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_039.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_039.png"
 }
 ```
 
@@ -6043,11 +6043,11 @@ Methods, scaling behaviors, and lessons learned. arXiv preprint arXiv:2209.07858
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 40,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_040.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_040.png"
 }
 ```
 
@@ -6198,11 +6198,11 @@ challenge dataset for reading comprehension. arXiv preprint arXiv:1705.03551, 20
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 41,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_041.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_041.png"
 }
 ```
 
@@ -6352,11 +6352,11 @@ MosaicML NLP Team et al. Introducing mpt-7b: A new standard for open-source, com
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 42,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_042.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_042.png"
 }
 ```
 
@@ -6497,11 +6497,11 @@ algorithms. arXio preprint arXiv:1707.06347, 2017.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 43,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_043.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_043.png"
 }
 ```
 
@@ -6642,11 +6642,11 @@ arXiv:2211.09085, 2022.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 44,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_044.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_044.png"
 }
 ```
 
@@ -6795,11 +6795,11 @@ Learning Representations, 2022.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 45,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_045.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_045.png"
 }
 ```
 
@@ -6825,11 +6825,11 @@ diagnostic analysis. arXiv preprint arXiv:2301.12867, 2023.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 46,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_046.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_046.png"
 }
 ```
 
@@ -6958,11 +6958,11 @@ tion support.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 47,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_047.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_047.png"
 }
 ```
 
@@ -7134,11 +7134,11 @@ Table 17: Context length ablation on general tasks.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 48,
   "content_type": "page_text_plus_ocr",
   "image_count": 1,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_048.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_048.png"
 }
 ```
 
@@ -7291,11 +7291,11 @@ Exams. In Table 24, we present fine-grained results from the English part of the
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 49,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_049.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_049.png"
 }
 ```
 
@@ -7675,11 +7675,11 @@ top-p=0.95. For pass@1 scores, we use a temperature of 0.1 and top-p=0.95.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 50,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_050.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_050.png"
 }
 ```
 
@@ -8123,11 +8123,11 @@ Table 24: Comparison to open source models on AGI Eval (English)
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 51,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_051.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_051.png"
 }
 ```
 
@@ -8292,11 +8292,11 @@ histogram of reward scores from the test set in Figure 27. Essentially, the marg
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 52,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_052.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_052.png"
 }
 ```
 
@@ -8538,11 +8538,11 @@ subcategories.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 53,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_053.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_053.png"
 }
 ```
 
@@ -8706,11 +8706,11 @@ progressively decrease, suggesting that the prompts are on average harder in the
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 54,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_054.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_054.png"
 }
 ```
 
@@ -8871,11 +8871,11 @@ with a larger margin.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 55,
   "content_type": "page_text_plus_ocr",
   "image_count": 2,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_055.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_055.png"
 }
 ```
 
@@ -9016,11 +9016,11 @@ represent +1 standard deviation.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 56,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_056.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_056.png"
 }
 ```
 
@@ -9169,11 +9169,11 @@ Table 32: Number of prompts for human evaluations.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 57,
   "content_type": "page_text_plus_ocr",
   "image_count": 2,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_057.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_057.png"
 }
 ```
 
@@ -9305,11 +9305,11 @@ agreement significantly.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 58,
   "content_type": "page_text_plus_ocr",
   "image_count": 2,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_058.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_058.png"
 }
 ```
 
@@ -9418,11 +9418,11 @@ The terms that we use for the pronoun analyses are consistent with the PaLM 2 pa
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 59,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_059.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_059.png"
 }
 ```
 
@@ -9580,11 +9580,11 @@ Table 34: Comparing generations obtained for an example prompt from Lama 2-Cuar 
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 60,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_060.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_060.png"
 }
 ```
 
@@ -9748,11 +9748,11 @@ false refusal rate as a function of the percentage of safety data used.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 61,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_061.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_061.png"
 }
 ```
 
@@ -9914,11 +9914,11 @@ offensive or problematic content.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 62,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_062.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_062.png"
 }
 ```
 
@@ -10083,11 +10083,11 @@ abomination. 62
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 63,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_063.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_063.png"
 }
 ```
 
@@ -10247,11 +10247,11 @@ that it’s food.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 64,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_064.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_064.png"
 }
 ```
 
@@ -10399,11 +10399,11 @@ towards specific prompts that we have assigned to certain risk categories (see b
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 65,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_065.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_065.png"
 }
 ```
 
@@ -10564,11 +10564,11 @@ vague (top example) or leading to a false refusal (bottom example).
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 66,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_066.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_066.png"
 }
 ```
 
@@ -10676,11 +10676,11 @@ Table 43.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 67,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_067.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_067.png"
 }
 ```
 
@@ -10829,11 +10829,11 @@ Table 42: Examples of safety evaluation prompts.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 68,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_068.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_068.png"
 }
 ```
 
@@ -10982,11 +10982,11 @@ models.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 69,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_069.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_069.png"
 }
 ```
 
@@ -11127,11 +11127,11 @@ they are underrepresented with only 12 and 29 prompts, respectively.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 70,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_070.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_070.png"
 }
 ```
 
@@ -11322,11 +11322,11 @@ better understand and analyze the varied behavior exhibited by LLMs across diffe
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 71,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_071.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_071.png"
 }
 ```
 
@@ -11809,11 +11809,11 @@ prompts.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 72,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_072.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_072.png"
 }
 ```
 
@@ -11986,11 +11986,11 @@ these categories can be seen in Section A.5.2.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 73,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_073.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_073.png"
 }
 ```
 
@@ -12466,11 +12466,11 @@ BOLD prompts.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 74,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_074.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_074.png"
 }
 ```
 
@@ -12974,11 +12974,11 @@ of 4 out of 5.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 75,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_075.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_075.png"
 }
 ```
 
@@ -13117,11 +13117,11 @@ contamination (as well as other definitions mentioned in the literature), there 
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 76,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_076.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_076.png"
 }
 ```
 
@@ -13370,11 +13370,11 @@ for conciseness.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 77,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_077.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\page_images\\page_077.png"
 }
 ```
 
@@ -13550,7 +13550,7 @@ Table 52: Model card for LLaMa 2.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 6,
   "content_type": "table",
   "table_index": 1
@@ -13585,7 +13585,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 13,
   "content_type": "table",
   "table_index": 1
@@ -13622,7 +13622,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 13,
   "content_type": "table",
   "table_index": 2
@@ -13658,7 +13658,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 14,
   "content_type": "table",
   "table_index": 1
@@ -13691,7 +13691,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 14,
   "content_type": "table",
   "table_index": 2
@@ -13729,7 +13729,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 14,
   "content_type": "table",
   "table_index": 3
@@ -13758,7 +13758,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 14,
   "content_type": "table",
   "table_index": 4
@@ -13790,7 +13790,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 18,
   "content_type": "table",
   "table_index": 1
@@ -13836,7 +13836,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 18,
   "content_type": "table",
   "table_index": 2
@@ -13867,7 +13867,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 18,
   "content_type": "table",
   "table_index": 3
@@ -13898,7 +13898,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 25,
   "content_type": "table",
   "table_index": 1
@@ -13921,7 +13921,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 25,
   "content_type": "table",
   "table_index": 2
@@ -13944,7 +13944,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 25,
   "content_type": "table",
   "table_index": 3
@@ -13971,7 +13971,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 25,
   "content_type": "table",
   "table_index": 4
@@ -13996,7 +13996,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 25,
   "content_type": "table",
   "table_index": 5
@@ -14023,7 +14023,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 25,
   "content_type": "table",
   "table_index": 6
@@ -14069,7 +14069,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 25,
   "content_type": "table",
   "table_index": 7
@@ -14095,7 +14095,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 26,
   "content_type": "table",
   "table_index": 1
@@ -14127,7 +14127,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 28,
   "content_type": "table",
   "table_index": 1
@@ -14172,7 +14172,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 28,
   "content_type": "table",
   "table_index": 2
@@ -14200,7 +14200,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 28,
   "content_type": "table",
   "table_index": 3
@@ -14230,7 +14230,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 53,
   "content_type": "table",
   "table_index": 1
@@ -14260,7 +14260,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 53,
   "content_type": "table",
   "table_index": 2
@@ -14292,7 +14292,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 55,
   "content_type": "table",
   "table_index": 1
@@ -14322,7 +14322,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 55,
   "content_type": "table",
   "table_index": 2
@@ -14352,7 +14352,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 64,
   "content_type": "table",
   "table_index": 1
@@ -14379,7 +14379,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 64,
   "content_type": "table",
   "table_index": 2
@@ -14406,7 +14406,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 67,
   "content_type": "table",
   "table_index": 1
@@ -14450,7 +14450,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 67,
   "content_type": "table",
   "table_index": 2
@@ -14481,11 +14481,11 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 3,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_003_image_1.jpeg",
+  "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_003_image_1.jpeg",
   "image_ext": "jpeg"
 }
 ```
@@ -14493,7 +14493,7 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 3
 IMAGE INDEX: 1
-IMAGE PATH: C:\Users\Sunny\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_003_image_1.jpeg
+IMAGE PATH: C:\Users\Hp\Desktop\Git\MMR_PROJECT\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_003_image_1.jpeg
 
 IMAGE OCR TEXT:
 Tie Loss
@@ -14524,11 +14524,11 @@ vs. MPT-7b-chat
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 3,
   "content_type": "image",
   "image_index": 2,
-  "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_003_image_2.png",
+  "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_003_image_2.png",
   "image_ext": "png"
 }
 ```
@@ -14536,7 +14536,7 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 3
 IMAGE INDEX: 2
-IMAGE PATH: C:\Users\Sunny\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_003_image_2.png
+IMAGE PATH: C:\Users\Hp\Desktop\Git\MMR_PROJECT\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_003_image_2.png
 
 IMAGE OCR TEXT:
 60%
@@ -14590,11 +14590,11 @@ sayjaq s! Z ewel]
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 4,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_004_image_1.png",
+  "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_004_image_1.png",
   "image_ext": "png"
 }
 ```
@@ -14602,7 +14602,7 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 4
 IMAGE INDEX: 1
-IMAGE PATH: C:\Users\Sunny\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_004_image_1.png
+IMAGE PATH: C:\Users\Hp\Desktop\Git\MMR_PROJECT\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_004_image_1.png
 
 IMAGE OCR TEXT:
 Violation % (lower is safer)
@@ -14639,11 +14639,11 @@ ChatGPT
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 5,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_005_image_1.jpeg",
+  "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_005_image_1.jpeg",
   "image_ext": "jpeg"
 }
 ```
@@ -14651,7 +14651,7 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 5
 IMAGE INDEX: 1
-IMAGE PATH: C:\Users\Sunny\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_005_image_1.jpeg
+IMAGE PATH: C:\Users\Hp\Desktop\Git\MMR_PROJECT\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_005_image_1.jpeg
 
 IMAGE OCR TEXT:
 HUMAN
@@ -14702,11 +14702,11 @@ Llama-2-chat
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 16,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_016_image_1.png",
+  "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_016_image_1.png",
   "image_ext": "png"
 }
 ```
@@ -14714,7 +14714,7 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 16
 IMAGE INDEX: 1
-IMAGE PATH: C:\Users\Sunny\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_016_image_1.png
+IMAGE PATH: C:\Users\Hp\Desktop\Git\MMR_PROJECT\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_016_image_1.png
 
 IMAGE OCR TEXT:
 Always answer with emojis
@@ -14744,11 +14744,11 @@ preferences. Here are some options:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 16,
   "content_type": "image",
   "image_index": 2,
-  "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_016_image_2.png",
+  "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_016_image_2.png",
   "image_ext": "png"
 }
 ```
@@ -14756,7 +14756,7 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 16
 IMAGE INDEX: 2
-IMAGE PATH: C:\Users\Sunny\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_016_image_2.png
+IMAGE PATH: C:\Users\Hp\Desktop\Git\MMR_PROJECT\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_016_image_2.png
 
 IMAGE OCR TEXT:
 Always answer with emojis
@@ -14781,11 +14781,11 @@ O00 00009
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 19,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_019_image_1.png",
+  "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_019_image_1.png",
   "image_ext": "png"
 }
 ```
@@ -14793,7 +14793,7 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 19
 IMAGE INDEX: 1
-IMAGE PATH: C:\Users\Sunny\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_019_image_1.png
+IMAGE PATH: C:\Users\Hp\Desktop\Git\MMR_PROJECT\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_019_image_1.png
 
 IMAGE OCR TEXT:
 Win Rate %
@@ -14871,11 +14871,11 @@ Single Turn Multi-Turn
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 21,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_021_image_1.png",
+  "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_021_image_1.png",
   "image_ext": "png"
 }
 ```
@@ -14883,7 +14883,7 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 21
 IMAGE INDEX: 1
-IMAGE PATH: C:\Users\Sunny\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_021_image_1.png
+IMAGE PATH: C:\Users\Hp\Desktop\Git\MMR_PROJECT\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_021_image_1.png
 
 IMAGE OCR TEXT:
 Fraction of Documents
@@ -14911,11 +14911,11 @@ Toxicity Score
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 28,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_028_image_1.png",
+  "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_028_image_1.png",
   "image_ext": "png"
 }
 ```
@@ -14923,7 +14923,7 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 28
 IMAGE INDEX: 1
-IMAGE PATH: C:\Users\Sunny\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_028_image_1.png
+IMAGE PATH: C:\Users\Hp\Desktop\Git\MMR_PROJECT\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_028_image_1.png
 
 IMAGE OCR TEXT:
 
@@ -14935,11 +14935,11 @@ IMAGE OCR TEXT:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 28,
   "content_type": "image",
   "image_index": 2,
-  "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_028_image_2.png",
+  "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_028_image_2.png",
   "image_ext": "png"
 }
 ```
@@ -14947,7 +14947,7 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 28
 IMAGE INDEX: 2
-IMAGE PATH: C:\Users\Sunny\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_028_image_2.png
+IMAGE PATH: C:\Users\Hp\Desktop\Git\MMR_PROJECT\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_028_image_2.png
 
 IMAGE OCR TEXT:
 
@@ -14959,11 +14959,11 @@ IMAGE OCR TEXT:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 30,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_030_image_1.png",
+  "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_030_image_1.png",
   "image_ext": "png"
 }
 ```
@@ -14971,7 +14971,7 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 30
 IMAGE INDEX: 1
-IMAGE PATH: C:\Users\Sunny\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_030_image_1.png
+IMAGE PATH: C:\Users\Hp\Desktop\Git\MMR_PROJECT\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_030_image_1.png
 
 IMAGE OCR TEXT:
 Violation % (lower is safer)
@@ -15008,11 +15008,11 @@ ChatGPT
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 30,
   "content_type": "image",
   "image_index": 2,
-  "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_030_image_2.png",
+  "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_030_image_2.png",
   "image_ext": "png"
 }
 ```
@@ -15020,7 +15020,7 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 30
 IMAGE INDEX: 2
-IMAGE PATH: C:\Users\Sunny\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_030_image_2.png
+IMAGE PATH: C:\Users\Hp\Desktop\Git\MMR_PROJECT\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_030_image_2.png
 
 IMAGE OCR TEXT:
 Safety & Helpfulness Mean Rating
@@ -15047,11 +15047,11 @@ Llama-2 Llama-2 Llama-2 Llama-2 MPT Vicuna Vicuna Falcon PaLM ChatGPT
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 30,
   "content_type": "image",
   "image_index": 3,
-  "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_030_image_3.png",
+  "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_030_image_3.png",
   "image_ext": "png"
 }
 ```
@@ -15059,7 +15059,7 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 30
 IMAGE INDEX: 3
-IMAGE PATH: C:\Users\Sunny\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_030_image_3.png
+IMAGE PATH: C:\Users\Hp\Desktop\Git\MMR_PROJECT\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_030_image_3.png
 
 IMAGE OCR TEXT:
 Llama-2 Llama-2 MPT Vicuna Vicuna Falcon PaLM ChatGPT
@@ -15132,11 +15132,11 @@ ouwowrsyr ODO ON N TH
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 31,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_031_image_1.png",
+  "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_031_image_1.png",
   "image_ext": "png"
 }
 ```
@@ -15144,7 +15144,7 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 31
 IMAGE INDEX: 1
-IMAGE PATH: C:\Users\Sunny\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_031_image_1.png
+IMAGE PATH: C:\Users\Hp\Desktop\Git\MMR_PROJECT\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_031_image_1.png
 
 IMAGE OCR TEXT:
 = 311)
@@ -15233,11 +15233,11 @@ yeyo-q/-z-ewel)
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 33,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_033_image_1.png",
+  "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_033_image_1.png",
   "image_ext": "png"
 }
 ```
@@ -15245,7 +15245,7 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 33
 IMAGE INDEX: 1
-IMAGE PATH: C:\Users\Sunny\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_033_image_1.png
+IMAGE PATH: C:\Users\Hp\Desktop\Git\MMR_PROJECT\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_033_image_1.png
 
 IMAGE OCR TEXT:
 Date: 01/01/2023
@@ -15264,11 +15264,11 @@ as my knowledge stopped in 1940.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 33,
   "content_type": "image",
   "image_index": 2,
-  "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_033_image_2.png",
+  "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_033_image_2.png",
   "image_ext": "png"
 }
 ```
@@ -15276,7 +15276,7 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 33
 IMAGE INDEX: 2
-IMAGE PATH: C:\Users\Sunny\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_033_image_2.png
+IMAGE PATH: C:\Users\Hp\Desktop\Git\MMR_PROJECT\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_033_image_2.png
 
 IMAGE OCR TEXT:
 Year: 2023
@@ -15305,11 +15305,11 @@ bulging at the equator.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 33,
   "content_type": "image",
   "image_index": 3,
-  "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_033_image_3.png",
+  "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_033_image_3.png",
   "image_ext": "png"
 }
 ```
@@ -15317,7 +15317,7 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 33
 IMAGE INDEX: 3
-IMAGE PATH: C:\Users\Sunny\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_033_image_3.png
+IMAGE PATH: C:\Users\Hp\Desktop\Git\MMR_PROJECT\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_033_image_3.png
 
 IMAGE OCR TEXT:
 Year: 852
@@ -15354,11 +15354,11 @@ favor.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 34,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_034_image_1.png",
+  "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_034_image_1.png",
   "image_ext": "png"
 }
 ```
@@ -15366,7 +15366,7 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 34
 IMAGE INDEX: 1
-IMAGE PATH: C:\Users\Sunny\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_034_image_1.png
+IMAGE PATH: C:\Users\Hp\Desktop\Git\MMR_PROJECT\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_034_image_1.png
 
 IMAGE OCR TEXT:
 You have access to the following tools:
@@ -15396,11 +15396,11 @@ So, sharks first appeared on Earth approximately 65 million years before trees d
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 48,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_048_image_1.png",
+  "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_048_image_1.png",
   "image_ext": "png"
 }
 ```
@@ -15408,7 +15408,7 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 48
 IMAGE INDEX: 1
-IMAGE PATH: C:\Users\Sunny\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_048_image_1.png
+IMAGE PATH: C:\Users\Hp\Desktop\Git\MMR_PROJECT\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_048_image_1.png
 
 IMAGE OCR TEXT:
 50
@@ -15467,11 +15467,11 @@ Latency per token (ms)
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 55,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_055_image_1.png",
+  "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_055_image_1.png",
   "image_ext": "png"
 }
 ```
@@ -15479,7 +15479,7 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 55
 IMAGE INDEX: 1
-IMAGE PATH: C:\Users\Sunny\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_055_image_1.png
+IMAGE PATH: C:\Users\Hp\Desktop\Git\MMR_PROJECT\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_055_image_1.png
 
 IMAGE OCR TEXT:
 Always answer with Haiku
@@ -15518,11 +15518,11 @@ Answering your queries.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 55,
   "content_type": "image",
   "image_index": 2,
-  "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_055_image_2.png",
+  "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_055_image_2.png",
   "image_ext": "png"
 }
 ```
@@ -15530,7 +15530,7 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 55
 IMAGE INDEX: 2
-IMAGE PATH: C:\Users\Sunny\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_055_image_2.png
+IMAGE PATH: C:\Users\Hp\Desktop\Git\MMR_PROJECT\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_055_image_2.png
 
 IMAGE OCR TEXT:
 | like anything to do with architecture. If it's relevant, suggest
@@ -15578,11 +15578,11 @@ atmosphere and see some of its most famous landmarks.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 57,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_057_image_1.png",
+  "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_057_image_1.png",
   "image_ext": "png"
 }
 ```
@@ -15590,7 +15590,7 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 57
 IMAGE INDEX: 1
-IMAGE PATH: C:\Users\Sunny\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_057_image_1.png
+IMAGE PATH: C:\Users\Hp\Desktop\Git\MMR_PROJECT\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_057_image_1.png
 
 IMAGE OCR TEXT:
 Win Rate %
@@ -15626,11 +15626,11 @@ vs. ChatGPT (With System Prompt)
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 57,
   "content_type": "image",
   "image_index": 2,
-  "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_057_image_2.png",
+  "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_057_image_2.png",
   "image_ext": "png"
 }
 ```
@@ -15638,7 +15638,7 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 57
 IMAGE INDEX: 2
-IMAGE PATH: C:\Users\Sunny\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_057_image_2.png
+IMAGE PATH: C:\Users\Hp\Desktop\Git\MMR_PROJECT\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_057_image_2.png
 
 IMAGE OCR TEXT:
 Win Rate %
@@ -15670,11 +15670,11 @@ Recommendations
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 58,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_058_image_1.png",
+  "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_058_image_1.png",
   "image_ext": "png"
 }
 ```
@@ -15682,7 +15682,7 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 58
 IMAGE INDEX: 1
-IMAGE PATH: C:\Users\Sunny\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_058_image_1.png
+IMAGE PATH: C:\Users\Hp\Desktop\Git\MMR_PROJECT\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_058_image_1.png
 
 IMAGE OCR TEXT:
 Win Rate %
@@ -15717,11 +15717,11 @@ fo)
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\uploads\\llama2-research-paper.pdf",
   "page_number": 58,
   "content_type": "image",
   "image_index": 2,
-  "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_058_image_2.png",
+  "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\llama2-research-paper\\extracted_images\\page_058_image_2.png",
   "image_ext": "png"
 }
 ```
@@ -15729,7 +15729,7 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 58
 IMAGE INDEX: 2
-IMAGE PATH: C:\Users\Sunny\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_058_image_2.png
+IMAGE PATH: C:\Users\Hp\Desktop\Git\MMR_PROJECT\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\llama2-research-paper\extracted_images\page_058_image_2.png
 
 IMAGE OCR TEXT:
 Win Rate %

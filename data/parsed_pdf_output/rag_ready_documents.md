@@ -5,11 +5,11 @@
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 1,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_001.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_001.png"
 }
 ```
 
@@ -91,11 +91,11 @@ Complex RAG Parsing Sample - synthetic document Page 1
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 2,
   "content_type": "page_text_plus_ocr",
   "image_count": 1,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_002.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_002.png"
 }
 ```
 
@@ -194,11 +194,11 @@ Page 2
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 3,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_003.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_003.png"
 }
 ```
 
@@ -351,11 +351,11 @@ Page 3
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 4,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_004.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_004.png"
 }
 ```
 
@@ -454,11 +454,11 @@ Complex RAG Parsing Sample - synthetic document Page 4
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 5,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_005.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_005.png"
 }
 ```
 
@@ -541,11 +541,11 @@ Complex RAG Parsing Sample - synthetic document Page 5
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 6,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_006.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_006.png"
 }
 ```
 
@@ -649,11 +649,11 @@ Complex RAG Parsing Sample - synthetic document Page 6
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 7,
   "content_type": "page_text_plus_ocr",
   "image_count": 1,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_007.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_007.png"
 }
 ```
 
@@ -719,11 +719,11 @@ Page 7
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 8,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_008.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_008.png"
 }
 ```
 
@@ -804,11 +804,11 @@ Complex RAG Parsing Sample - synthetic document Page 8
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 9,
   "content_type": "page_text_plus_ocr",
   "image_count": 1,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_009.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_009.png"
 }
 ```
 
@@ -887,11 +887,11 @@ Complex RAG Parsing Sample - synthetic document Page 9
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 10,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_010.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_010.png"
 }
 ```
 
@@ -991,11 +991,11 @@ Page 10
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 11,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_011.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_011.png"
 }
 ```
 
@@ -1062,11 +1062,11 @@ Complex RAG Parsing Sample - synthetic document Page 11
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 12,
   "content_type": "page_text_plus_ocr",
   "image_count": 1,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_012.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_012.png"
 }
 ```
 
@@ -1130,11 +1130,11 @@ Complex RAG Parsing Sample - synthetic document Page 12
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 13,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_013.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_013.png"
 }
 ```
 
@@ -1214,11 +1214,11 @@ Complex RAG Parsing Sample - synthetic document Page 13,
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 14,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_014.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_014.png"
 }
 ```
 
@@ -1290,11 +1290,11 @@ Complex RAG Parsing Sample - synthetic document Page 14
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 15,
   "content_type": "page_text_plus_ocr",
   "image_count": 0,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_015.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_015.png"
 }
 ```
 
@@ -1376,11 +1376,11 @@ Complex RAG Parsing Sample - synthetic document Page 15,
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 16,
   "content_type": "page_text_plus_ocr",
   "image_count": 1,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_016.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_016.png"
 }
 ```
 
@@ -1440,11 +1440,11 @@ Appendix page 1
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 17,
   "content_type": "page_text_plus_ocr",
   "image_count": 1,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_017.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_017.png"
 }
 ```
 
@@ -1540,11 +1540,11 @@ Appendix page 2
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 18,
   "content_type": "page_text_plus_ocr",
   "image_count": 1,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_018.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_018.png"
 }
 ```
 
@@ -1594,11 +1594,11 @@ Appendix page 3
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 19,
   "content_type": "page_text_plus_ocr",
   "image_count": 1,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_019.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_019.png"
 }
 ```
 
@@ -1655,11 +1655,11 @@ Complex RAG Parsing Sample - appended visuals and scanned documents Appendix pag
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 20,
   "content_type": "page_text_plus_ocr",
   "image_count": 1,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_020.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_020.png"
 }
 ```
 
@@ -1717,11 +1717,11 @@ Complex RAG Parsing Sample - appended visuals and scanned documents Appendix pag
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 21,
   "content_type": "page_text_plus_ocr",
   "image_count": 1,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_021.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_021.png"
 }
 ```
 
@@ -1772,11 +1772,11 @@ Complex RAG Parsing Sample - appended visuals and scanned documents Appendix pag
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 22,
   "content_type": "page_text_plus_ocr",
   "image_count": 1,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_022.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_022.png"
 }
 ```
 
@@ -1870,11 +1870,11 @@ Appendix page 4
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 23,
   "content_type": "page_text_plus_ocr",
   "image_count": 1,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_023.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_023.png"
 }
 ```
 
@@ -1988,11 +1988,11 @@ Appendix page 5
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 24,
   "content_type": "page_text_plus_ocr",
   "image_count": 1,
-  "page_image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_024.png"
+  "page_image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\page_images\\page_024.png"
 }
 ```
 
@@ -2070,7 +2070,7 @@ Complex RAG Parsing Sample - appended instructor image Appendix page 6
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 1,
   "content_type": "table",
   "table_index": 1
@@ -2101,7 +2101,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 2,
   "content_type": "table",
   "table_index": 1
@@ -2129,7 +2129,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 3,
   "content_type": "table",
   "table_index": 1
@@ -2166,7 +2166,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 4,
   "content_type": "table",
   "table_index": 1
@@ -2195,7 +2195,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 5,
   "content_type": "table",
   "table_index": 1
@@ -2226,7 +2226,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 6,
   "content_type": "table",
   "table_index": 1
@@ -2259,7 +2259,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 7,
   "content_type": "table",
   "table_index": 1
@@ -2285,7 +2285,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 8,
   "content_type": "table",
   "table_index": 1
@@ -2311,7 +2311,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 9,
   "content_type": "table",
   "table_index": 1
@@ -2340,7 +2340,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 10,
   "content_type": "table",
   "table_index": 1
@@ -2369,7 +2369,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 11,
   "content_type": "table",
   "table_index": 1
@@ -2397,7 +2397,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 12,
   "content_type": "table",
   "table_index": 1
@@ -2424,7 +2424,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 13,
   "content_type": "table",
   "table_index": 1
@@ -2454,7 +2454,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 14,
   "content_type": "table",
   "table_index": 1
@@ -2485,7 +2485,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 15,
   "content_type": "table",
   "table_index": 1
@@ -2518,7 +2518,7 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 24,
   "content_type": "table",
   "table_index": 1
@@ -2549,11 +2549,11 @@ TABLE MARKDOWN:
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 2,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_002_image_1.png",
+  "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_002_image_1.png",
   "image_ext": "png"
 }
 ```
@@ -2561,7 +2561,7 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 2
 IMAGE INDEX: 1
-IMAGE PATH: C:\Users\Sunny\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\extracted_images\page_002_image_1.png
+IMAGE PATH: C:\Users\Hp\Desktop\Git\MMR_PROJECT\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\extracted_images\page_002_image_1.png
 
 IMAGE OCR TEXT:
 Contract Processing Ownership Map
@@ -2578,11 +2578,11 @@ Vector DB Document Store
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 7,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_007_image_1.png",
+  "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_007_image_1.png",
   "image_ext": "png"
 }
 ```
@@ -2590,7 +2590,7 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 7
 IMAGE INDEX: 1
-IMAGE PATH: C:\Users\Sunny\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\extracted_images\page_007_image_1.png
+IMAGE PATH: C:\Users\Hp\Desktop\Git\MMR_PROJECT\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\extracted_images\page_007_image_1.png
 
 IMAGE OCR TEXT:
 RAG Ingestion and Retrieval Flow
@@ -2612,11 +2612,11 @@ Parsing challenge: each stage can improve or damage answer quality.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 9,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_009_image_1.png",
+  "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_009_image_1.png",
   "image_ext": "png"
 }
 ```
@@ -2624,7 +2624,7 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 9
 IMAGE INDEX: 1
-IMAGE PATH: C:\Users\Sunny\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\extracted_images\page_009_image_1.png
+IMAGE PATH: C:\Users\Hp\Desktop\Git\MMR_PROJECT\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\extracted_images\page_009_image_1.png
 
 IMAGE OCR TEXT:
 Client Name:
@@ -2663,11 +2663,11 @@ vid Approved for ingestion after Pll masking
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 12,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_012_image_1.png",
+  "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_012_image_1.png",
   "image_ext": "png"
 }
 ```
@@ -2675,7 +2675,7 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 12
 IMAGE INDEX: 1
-IMAGE PATH: C:\Users\Sunny\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\extracted_images\page_012_image_1.png
+IMAGE PATH: C:\Users\Hp\Desktop\Git\MMR_PROJECT\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\extracted_images\page_012_image_1.png
 
 IMAGE OCR TEXT:
 Viewer Retention Heatmap by Time Slot
@@ -2700,11 +2700,11 @@ Mon Tue Wed Thu Fri
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 16,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_016_image_1.png",
+  "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_016_image_1.png",
   "image_ext": "png"
 }
 ```
@@ -2712,7 +2712,7 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 16
 IMAGE INDEX: 1
-IMAGE PATH: C:\Users\Sunny\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\extracted_images\page_016_image_1.png
+IMAGE PATH: C:\Users\Hp\Desktop\Git\MMR_PROJECT\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\extracted_images\page_016_image_1.png
 
 IMAGE OCR TEXT:
 ae ennn mr en macnn NSN ON NONE ONS NEE DINE POLE II
@@ -2749,11 +2749,11 @@ hours
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 17,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_017_image_1.png",
+  "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_017_image_1.png",
   "image_ext": "png"
 }
 ```
@@ -2761,7 +2761,7 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 17
 IMAGE INDEX: 1
-IMAGE PATH: C:\Users\Sunny\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\extracted_images\page_017_image_1.png
+IMAGE PATH: C:\Users\Hp\Desktop\Git\MMR_PROJECT\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\extracted_images\page_017_image_1.png
 
 IMAGE OCR TEXT:
 Plan ‘Student Volume Annual Platform Charges Usage Add-ons Billing Rule
@@ -2788,11 +2788,11 @@ approve!
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 18,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_018_image_1.png",
+  "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_018_image_1.png",
   "image_ext": "png"
 }
 ```
@@ -2800,7 +2800,7 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 18
 IMAGE INDEX: 1
-IMAGE PATH: C:\Users\Sunny\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\extracted_images\page_018_image_1.png
+IMAGE PATH: C:\Users\Hp\Desktop\Git\MMR_PROJECT\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\extracted_images\page_018_image_1.png
 
 IMAGE OCR TEXT:
 Line tem
@@ -2821,11 +2821,11 @@ Surmary Subltal and tes INR 14.1500 _|INR3.274a0 | WR1.27.440_|INR 16.70.80,
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 19,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_019_image_1.png",
+  "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_019_image_1.png",
   "image_ext": "png"
 }
 ```
@@ -2833,7 +2833,7 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 19
 IMAGE INDEX: 1
-IMAGE PATH: C:\Users\Sunny\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\extracted_images\page_019_image_1.png
+IMAGE PATH: C:\Users\Hp\Desktop\Git\MMR_PROJECT\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\extracted_images\page_019_image_1.png
 
 IMAGE OCR TEXT:
 Visual Appendix 1: Multimodal Document Flow
@@ -2859,11 +2859,11 @@ Expected extraction: content blocks with source file, page, section, modality, a
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 20,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_020_image_1.png",
+  "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_020_image_1.png",
   "image_ext": "png"
 }
 ```
@@ -2871,7 +2871,7 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 20
 IMAGE INDEX: 1
-IMAGE PATH: C:\Users\Sunny\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\extracted_images\page_020_image_1.png
+IMAGE PATH: C:\Users\Hp\Desktop\Git\MMR_PROJECT\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\extracted_images\page_020_image_1.png
 
 IMAGE OCR TEXT:
 Visual Appendix 2: Contract Risk Dashboard Snapshot
@@ -2903,11 +2903,11 @@ Expected extraction: chart title, series values, legend labels, table values, an
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 21,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_021_image_1.png",
+  "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_021_image_1.png",
   "image_ext": "png"
 }
 ```
@@ -2915,7 +2915,7 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 21
 IMAGE INDEX: 1
-IMAGE PATH: C:\Users\Sunny\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\extracted_images\page_021_image_1.png
+IMAGE PATH: C:\Users\Hp\Desktop\Git\MMR_PROJECT\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\extracted_images\page_021_image_1.png
 
 IMAGE OCR TEXT:
 Visual Appendix 3: Data Lineage and Access Boundary
@@ -2939,11 +2939,11 @@ before LLM context creation.
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 22,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_022_image_1.png",
+  "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_022_image_1.png",
   "image_ext": "png"
 }
 ```
@@ -2951,7 +2951,7 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 22
 IMAGE INDEX: 1
-IMAGE PATH: C:\Users\Sunny\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\extracted_images\page_022_image_1.png
+IMAGE PATH: C:\Users\Hp\Desktop\Git\MMR_PROJECT\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\extracted_images\page_022_image_1.png
 
 IMAGE OCR TEXT:
 SCANNED TAX INVOICE
@@ -3000,11 +3000,11 @@ Received by: K. Mehta
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 23,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_023_image_1.png",
+  "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_023_image_1.png",
   "image_ext": "png"
 }
 ```
@@ -3012,7 +3012,7 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 23
 IMAGE INDEX: 1
-IMAGE PATH: C:\Users\Sunny\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\extracted_images\page_023_image_1.png
+IMAGE PATH: C:\Users\Hp\Desktop\Git\MMR_PROJECT\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\extracted_images\page_023_image_1.png
 
 IMAGE OCR TEXT:
 SCANNED UTILITY BILL
@@ -3063,11 +3063,11 @@ Received by: K. Mehta
 Metadata:
 ```json
 {
-  "source": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
+  "source": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\Client_Contracts_Policies_and_Incident_Records.pdf",
   "page_number": 24,
   "content_type": "image",
   "image_index": 1,
-  "image_path": "C:\\Users\\Sunny\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_024_image_1.jpeg",
+  "image_path": "C:\\Users\\Hp\\Desktop\\Git\\MMR_PROJECT\\mm-rag-full-stack-genai-bootcamp-1.0\\data\\parsed_pdf_output\\extracted_images\\page_024_image_1.jpeg",
   "image_ext": "jpeg"
 }
 ```
@@ -3075,7 +3075,7 @@ Metadata:
 Content:
 IMAGE FOUND ON PAGE 24
 IMAGE INDEX: 1
-IMAGE PATH: C:\Users\Sunny\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\extracted_images\page_024_image_1.jpeg
+IMAGE PATH: C:\Users\Hp\Desktop\Git\MMR_PROJECT\mm-rag-full-stack-genai-bootcamp-1.0\data\parsed_pdf_output\extracted_images\page_024_image_1.jpeg
 
 IMAGE OCR TEXT:
 
