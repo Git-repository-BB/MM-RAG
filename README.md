@@ -6,8 +6,9 @@ how documents and other supported content can be ingested, processed, indexed,
 retrieved, and supplied to a large language model to produce grounded answers.
 
 > [!NOTE]
-> This repository is currently in its initial setup phase. Application features,
-> dependencies, and detailed run commands should be added as they are implemented.
+> The ingestion, retrieval, and generation pipeline is implemented behind a
+> FastAPI service layer. Streamlit is an admin/demo frontend that talks to
+> that API instead of calling the pipeline directly — see [Architecture](#architecture).
 
 ## Project goals
 
@@ -27,6 +28,29 @@ retrieved, and supplied to a large language model to produce grounded answers.
 5. Retrieve the most relevant context for a user's question.
 6. Send the question and retrieved context to a language model.
 7. Return a grounded answer through the application interface.
+
+## Architecture
+
+```text
+Frontend (Streamlit admin/demo UI, or a public React/Next.js app)
+        |
+        v
+   API layer (FastAPI, api/main.py)
+        |
+        +--> Ingestion Service   (src/services/ingestion_service.py)
+        +--> Retrieval Service   (src/services/retrieval_service.py)
+        +--> Generation Service  (src/services/generation_service.py)
+```
+
+- The **API layer** (`api/`) exposes REST endpoints for document discovery,
+  upload, parsing, Qdrant ingestion, retrieval, and chat generation.
+- The **services** (`src/services/`) contain the orchestration logic (reuse
+  parsed artifacts, reuse existing Qdrant indexes, run only missing stages)
+  and wrap the lower-level pipeline modules in `src/` (`parsing.py`,
+  `ingestion.py`, `retriever.py`, `generation.py`).
+- The **Streamlit app** (`ui/app.py`) is a thin client: it never imports the
+  pipeline modules directly, it only calls the API through `ui/api_client.py`.
+  Any other frontend (e.g. React/Next.js) can call the same API.
 
 ## Prerequisites
 
@@ -107,9 +131,6 @@ Install the dependencies listed in `requirements.txt`:
 uv pip install -r requirements.txt
 ```
 
-The requirements file is currently empty and should be updated as project
-packages are introduced.
-
 ### 5. Configure environment variables
 
 Store local configuration, API keys, model settings, and service credentials in
@@ -124,20 +145,59 @@ the `.env` file. For example:
 Never commit real secrets or API keys. The `.env` file and `env` virtual
 environment directory are excluded through `.gitignore`.
 
+## Running the application
+
+The API must be running before the Streamlit UI can parse, ingest, or chat.
+
+### 1. Start the API layer
+
+```cmd
+uvicorn api.main:app --reload
+```
+
+The API is served at `http://127.0.0.1:8000` by default (interactive docs at
+`http://127.0.0.1:8000/docs`).
+
+### 2. Start the Streamlit UI
+
+In a second terminal (with the same virtual environment activated):
+
+```cmd
+streamlit run ui/app.py
+```
+
+If the API is not running on the default host/port, point the UI at it:
+
+```cmd
+set MMRAG_API_BASE_URL=http://127.0.0.1:8000
+```
+
 ## Current project structure
 
 ```text
-mm-rag-full-stack-genai-bootcamp-1.0/
-|-- .env               # Local environment variables (not committed)
-|-- .gitignore         # Files and directories excluded from Git
-|-- README.md          # Project documentation
-|-- requirements.txt   # Python dependencies
-`-- env/               # Local Python virtual environment (not committed)
+MM-RAG/
+|-- .env                    # Local environment variables (not committed)
+|-- requirements.txt        # Python dependencies
+|-- api/                    # FastAPI layer (routers, schemas, DI)
+|   |-- main.py
+|   |-- schemas.py
+|   |-- dependencies.py
+|   `-- routers/            # documents, retrieval, chat endpoints
+|-- src/
+|   |-- parsing.py          # PDF/OCR/table/image extraction
+|   |-- ingestion.py        # Chunking, embeddings, Qdrant upsert
+|   |-- retriever.py        # Qdrant similarity search
+|   |-- generation.py       # Multimodal RAG answer generation
+|   `-- services/           # Ingestion / Retrieval / Generation services
+|-- ui/
+|   |-- app.py              # Streamlit admin/demo frontend
+|   `-- api_client.py       # HTTP client used by the Streamlit app
+|-- prompt_library/         # Shared prompt templates
+|-- exception/              # Shared custom exception type
+|-- logger/                 # Structured logging setup
+|-- config/                 # Application configuration
+`-- data/                   # Uploaded PDFs and parsed artifacts
 ```
-
-The structure will expand as the ingestion pipeline, retrieval layer, AI
-services, backend API, frontend application, tests, and supporting configuration
-are added.
 
 ## Common commands
 
@@ -167,17 +227,24 @@ deactivate
 - Add tests as each application component is implemented.
 - Update this README whenever setup or run commands change.
 
-## Planned components
+## Implemented components
 
-- Content ingestion and preprocessing
-- Text and multimodal content extraction
+- PDF ingestion and preprocessing (text, OCR, tables, embedded images)
 - Chunking and metadata management
-- Embedding generation
-- Vector storage and semantic retrieval
-- LLM-based response generation
-- Backend API
-- Frontend interface
-- Evaluation, testing, logging, and observability
+- Embedding generation and Qdrant vector storage
+- Semantic retrieval with metadata filters
+- Multimodal LLM-based response generation
+- FastAPI backend exposing ingestion, retrieval, and chat endpoints
+- Streamlit admin/demo frontend consuming the API
+- Structured application logging and custom exception handling
+
+## Planned enhancements
+
+- Dedicated public frontend (e.g. React/Next.js) against the same API
+- Serving retrieved/inspected images over the API instead of shared local disk
+- Authentication/authorization on the API layer
+- Automated tests and CI
+- Evaluation and observability tooling
 
 ## Status
 

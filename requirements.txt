@@ -25,6 +25,12 @@ qdrant-client
 python-dotenv
 streamlit
 
+# API layer
+fastapi
+uvicorn[standard]
+python-multipart
+requests
+
 # Notebook conversion utility
 nbformat
 nbconvert
