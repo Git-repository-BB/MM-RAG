@@ -1,11 +1,14 @@
 from __future__ import annotations
 
-from fastapi import APIRouter, Depends, File, HTTPException, UploadFile
+from fastapi import APIRouter, BackgroundTasks, Depends, File, HTTPException, UploadFile
 
 from api.dependencies import get_ingestion_service
+from api.jobs import job_store
 from api.schemas import (
     DocumentSummary,
     IndexStatusResponse,
+    IngestJobResponse,
+    IngestJobStatusResponse,
     IngestRequest,
     IngestResponse,
     ParseRequest,
@@ -83,13 +86,23 @@ def index_status(
     return IndexStatusResponse(found=True, **result)
 
 
-@router.post("/ingest", response_model=IngestResponse)
+@router.post("/ingest", response_model=IngestJobResponse, status_code=202)
 def ingest_document(
     request: IngestRequest,
+    background_tasks: BackgroundTasks,
     service: IngestionService = Depends(get_ingestion_service),
-) -> IngestResponse:
-    try:
-        result = service.ingest_document(
+) -> IngestJobResponse:
+    """
+    Start ingestion as a background job and return immediately.
+
+    Embeddings and Qdrant upserts can take a while for large PDFs, so this
+    endpoint hands the work off to a background thread (see api/jobs.py) and
+    responds with a job_id right away. Poll GET /ingest/{job_id} for status.
+    """
+    job = job_store.create()
+
+    def run_ingestion() -> dict:
+        return service.ingest_document(
             pdf_path=request.pdf_path,
             fingerprint=request.fingerprint,
             collection_name=request.collection_name,
@@ -98,9 +111,22 @@ def ingest_document(
             replace_existing=request.replace_existing,
             force=request.force,
         )
-    except ValueError as exc:
-        raise HTTPException(status_code=409, detail=str(exc)) from exc
-    except DocumentPortalException as exc:
-        raise HTTPException(status_code=500, detail=exc.error_message) from exc
 
-    return IngestResponse(**result)
+    background_tasks.add_task(job_store.run, job.job_id, run_ingestion)
+
+    return IngestJobResponse(job_id=job.job_id, status=job.status)
+
+
+@router.get("/ingest/{job_id}", response_model=IngestJobStatusResponse)
+def ingest_job_status(job_id: str) -> IngestJobStatusResponse:
+    job = job_store.get(job_id)
+
+    if job is None:
+        raise HTTPException(status_code=404, detail="Ingestion job not found")
+
+    return IngestJobStatusResponse(
+        job_id=job.job_id,
+        status=job.status,
+        result=IngestResponse(**job.result) if job.result is not None else None,
+        error=job.error,
+    )

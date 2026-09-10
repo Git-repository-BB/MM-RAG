@@ -52,6 +52,26 @@ Frontend (Streamlit admin/demo UI, or a public React/Next.js app)
   pipeline modules directly, it only calls the API through `ui/api_client.py`.
   Any other frontend (e.g. React/Next.js) can call the same API.
 
+### Asynchronous ingestion
+
+`POST /api/documents/ingest` does not block until embeddings/upsert finish.
+It creates a job, schedules the actual ingestion work as a FastAPI
+`BackgroundTask` (run on a worker thread via `api/jobs.py`), and immediately
+returns `202 Accepted` with a `job_id`:
+
+```json
+{ "job_id": "b3f6...", "status": "pending" }
+```
+
+Callers poll `GET /api/documents/ingest/{job_id}` until `status` becomes
+`"completed"` (with a `result`) or `"failed"` (with an `error`). The
+Streamlit UI does this polling for you (`ui/api_client.py:ingest_document`)
+and updates the sidebar status text every ~1.5s while indexing runs.
+
+The job store is an in-memory, per-process registry — fine for a single
+local/demo API instance. For multi-worker or multi-process deployments,
+swap it for a shared store (e.g. Redis) so every worker can see every job.
+
 ## Prerequisites
 
 Before setting up the project, install:

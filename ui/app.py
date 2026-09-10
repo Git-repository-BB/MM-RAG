@@ -29,6 +29,7 @@ Configuration:
 from __future__ import annotations
 
 import sys
+import time
 from pathlib import Path
 from typing import Any
 
@@ -854,6 +855,13 @@ if (
         ):
             try:
                 with st.status("Indexing document...", expanded=True) as status:
+                    started_at = time.monotonic()
+
+                    def _on_poll(job_status: dict[str, Any], _status=status, _started_at=started_at) -> None:
+                        elapsed = int(time.monotonic() - _started_at)
+                        _status.update(label=f"Indexing document... ({elapsed}s elapsed)")
+                        _status.write(f"Job status: {job_status['status']} · {elapsed}s elapsed")
+
                     result = api_client.ingest_document(
                         pdf_path=selected_pdf_path,
                         fingerprint=selected_fingerprint,
@@ -862,6 +870,7 @@ if (
                         chunk_overlap=int(chunk_overlap),
                         replace_existing=replace_existing,
                         force=True,
+                        on_poll=_on_poll,
                     )
 
                     st.session_state.ingestion_result = result

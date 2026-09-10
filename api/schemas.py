@@ -50,6 +50,18 @@ class IngestResponse(BaseModel):
     file_sha256: Optional[str] = None
 
 
+class IngestJobResponse(BaseModel):
+    job_id: str
+    status: str
+
+
+class IngestJobStatusResponse(BaseModel):
+    job_id: str
+    status: str
+    result: Optional[IngestResponse] = None
+    error: Optional[str] = None
+
+
 class IndexStatusResponse(BaseModel):
     found: bool
     collection_name: Optional[str] = None
